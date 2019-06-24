@@ -1,3 +1,3 @@
 # T-CONV
-Trajectory destination prediction.
-Multi-scale and Multi-scope Convolutional Neural Networks For Destination Prediction of Trajectories
+
+Jianming Lv, Qinghui Sun, Qing Li, Luis Moreira-Matias. Multi-scale and Multi-scope Convolutional Neural Networks For Destination Prediction of Trajectories. Accepted by IEEE Trans. Intelligent Transportation Systems.
